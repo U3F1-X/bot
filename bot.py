@@ -1,7 +1,7 @@
 import telebot
 
 # ضع هنا توكن البوت الخاص بك
-API_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+API_TOKEN = '7329942132:AAEu2S1qMpwxOHdKF5KlAmzhulHJLQ7YKOs'
 
 # إنشاء كائن البوت
 bot = telebot.TeleBot(API_TOKEN)
